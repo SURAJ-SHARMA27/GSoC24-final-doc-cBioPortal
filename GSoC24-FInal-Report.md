@@ -231,7 +231,7 @@ One of the tasks that required extra time and attention was adding a customized 
 
 <br/>
 
-### 🎓 Lessons Learned During GSoC Project
+### 🎓 Takeaways from My GSoC Experience
 
 The most valuable lesson I gained from this project was the importance of time management. Balancing my GSoC responsibilities while working at another company was particularly challenging, especially during critical phases. However, I managed to align my work with the client project while making significant progress on GSoC tasks. This experience taught me how to effectively prioritize and manage my time, a skill that will undoubtedly benefit me in future endeavors.
 
