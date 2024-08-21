@@ -225,6 +225,20 @@ In this pull request stacked bar , piechart and bar plot components have been ad
 
 <br/>
 
+### 🛠️ Challenges Faced During GSoC Project
+
+One of the tasks that required extra time and attention was adding a customized tooltip for the stacked bar and pie chart. The task required a deep dive into the VictoryCharts documentation, as I had to override the default interaction events and implement custom events to achieve the desired functionality. This involved making the tooltip dynamic and responsive to various states. I also had to manage the tooltip's visibility and positioning based on the user's interactions with the chart.
+
+<br/>
+
+### 🎓 Lessons Learned During GSoC Project
+
+The most valuable lesson I gained from this project was the importance of time management. Balancing my GSoC responsibilities while working at another company was particularly challenging, especially during critical phases. However, I managed to align my work with the client project while making significant progress on GSoC tasks. This experience taught me how to effectively prioritize and manage my time, a skill that will undoubtedly benefit me in future endeavors.
+
+On the technical side, my understanding of frontend visualization, particularly with diverse datasets, has deepened significantly. I became proficient in using the VictoryCharts library, which was pivotal in implementing single cell visualizations. Additionally, I honed my skills with MobX for state management.
+
+<br/>
+
 ### 📝 Blogs
 
 I have written some blogs midway through this journey. You can enjoy them here:
