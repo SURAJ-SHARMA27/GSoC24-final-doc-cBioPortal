@@ -239,6 +239,18 @@ On the technical side, my understanding of frontend visualization, particularly 
 
 <br/>
 
+### 🚀 Future Works
+
+- Extending the Single Cell Implementation to Area Plots: We plan to enhance the single cell tab by incorporating an additional chart type: the area chart. This will offer users another way to visualize the data and further enrich their analytical experience.
+
+- Backend Data Storage and Retrieval: Currently, the data for the scattered box plot is stored in JSON files on the frontend. Future work involves storing these files in the backend and fetching them through the cbio-internal-api, aligning with the data fetching methods used for other data in the application.
+
+- UI Enhancements: Continuous improvement of the user interface will be an ongoing effort. This includes refining various components to ensure a consistent and intuitive user experience.
+
+![image](https://github.com/user-attachments/assets/52e3427b-61b2-4e75-bb99-7619f7ac3df2)
+
+<br/>
+
 ### 📝 Blogs
 
 I have written some blogs midway through this journey. You can enjoy them here:
