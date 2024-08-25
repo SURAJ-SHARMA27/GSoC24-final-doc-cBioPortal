@@ -77,6 +77,8 @@ Provides an interactive interface for users to configure the visualization of si
 
 ### 📈 Stacked Bar Chart Configuration
 
+- The data is shown at the sample level, providing a detailed breakdown of each sample's composition within the selected category.
+
 **Sort By:**
 - Upon selecting "Stacked Bar" from the chart type dropdown, a third dropdown appears: "Sort By".
 - **Options:** Cell Type/Phase.
@@ -115,7 +117,7 @@ Provides an interactive interface for users to configure the visualization of si
 
 ### 🥧 Pie Chart Configuration
 
-- Upon selecting "Pie Chart" from the chart type dropdown, the pie chart is generated for the selected molecular profile.
+- Upon selecting "Pie Chart" from the chart type dropdown, the pie chart is generated for the selected molecular profile. The data is displayed at the cohort level, offering an aggregated view of the composition across the entire cohort, which helps in understanding overall trends and distributions within the study population.
 
 **Composition Visualization:**
 - Displays the composition of cell types for the selected molecular profile.
