@@ -44,6 +44,7 @@ in the study view.
 - The study contains `genericAssaysProfiles` (data of type generic assay).
 
 **Reason for Conditional Rendering:**
+- Prevents Data Inaccuracy: We avoid showing the plot when multiple studies are selected, as combining data from different single cell studies without reanalysis can lead to inaccurate results.
 - Ensures the tab is only shown when relevant single cell data is available.
 - Enhances user experience by providing targeted and meaningful data visualization.
 
