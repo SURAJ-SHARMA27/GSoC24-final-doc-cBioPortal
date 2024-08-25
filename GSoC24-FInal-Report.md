@@ -167,7 +167,7 @@ Provides an interactive interface for users to configure the visualization of si
 
 ### 🧬 Gene Expression
 
-- When "Gene Expression" is selected from the first dropdown, the chart type dropdown is auto-populated with "Box Plot."
+- For the Gene Expression part, the data is now in JSON format, filtered based on genes with a genomic alteration in the cohort. The data is shown on a sample-tissue level, meaning each dot represents a unique sample-tissue combination. The expression value represents the average expression of the selected gene for all cells within that sample-tissue combination. When "Gene Expression" is selected from the first dropdown, the chart type dropdown is auto-populated with "Box Plot".
 
 **Gene Selection:**
 - A dropdown appears for selecting a gene, displaying all available genes.
