@@ -33,8 +33,7 @@ of cancer biology.
 
 ## Project Report
 
-> A new tab within cBioPortal will be specifically designed for single-cell data exploration
-in the study view.
+> A new tab within cBioPortal has been specifically designed for single-cell data exploration in the study view.
 
 ### 💡 Single Cell Tab
 
